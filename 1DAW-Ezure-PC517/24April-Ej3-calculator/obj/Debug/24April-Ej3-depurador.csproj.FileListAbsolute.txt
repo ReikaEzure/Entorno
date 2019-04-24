@@ -1,0 +1,7 @@
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\24April-Ej3-calculator\bin\Debug\24April-Ej3-calculator.exe.config
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\24April-Ej3-calculator\bin\Debug\24April-Ej3-calculator.exe
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\24April-Ej3-calculator\bin\Debug\24April-Ej3-calculator.pdb
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\24April-Ej3-calculator\obj\Debug\24April-Ej3-depurador.csprojAssemblyReference.cache
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\24April-Ej3-calculator\obj\Debug\24April-Ej3-depurador.csproj.CoreCompileInputs.cache
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\24April-Ej3-calculator\obj\Debug\24April-Ej3-calculator.exe
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\24April-Ej3-calculator\obj\Debug\24April-Ej3-calculator.pdb

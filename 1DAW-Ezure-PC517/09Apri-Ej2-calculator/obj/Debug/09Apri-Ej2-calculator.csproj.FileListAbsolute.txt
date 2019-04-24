@@ -1,0 +1,6 @@
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\09Apri-Ej2-calculator\bin\Debug\09Apri-Ej2-calculator.exe.config
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\09Apri-Ej2-calculator\bin\Debug\09Apri-Ej2-calculator.exe
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\09Apri-Ej2-calculator\bin\Debug\09Apri-Ej2-calculator.pdb
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\09Apri-Ej2-calculator\obj\Debug\09Apri-Ej2-calculator.csproj.CoreCompileInputs.cache
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\09Apri-Ej2-calculator\obj\Debug\09Apri-Ej2-calculator.exe
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\09Apri-Ej2-calculator\obj\Debug\09Apri-Ej2-calculator.pdb

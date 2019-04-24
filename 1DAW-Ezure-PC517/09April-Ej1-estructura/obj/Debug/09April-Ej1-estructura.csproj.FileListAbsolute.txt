@@ -1,0 +1,7 @@
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\09April-Ej1-estructura\bin\Debug\09April-Ej1-estructura.exe.config
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\09April-Ej1-estructura\bin\Debug\09April-Ej1-estructura.exe
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\09April-Ej1-estructura\bin\Debug\09April-Ej1-estructura.pdb
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\09April-Ej1-estructura\obj\Debug\09April-Ej1-estructura.csprojAssemblyReference.cache
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\09April-Ej1-estructura\obj\Debug\09April-Ej1-estructura.csproj.CoreCompileInputs.cache
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\09April-Ej1-estructura\obj\Debug\09April-Ej1-estructura.exe
+C:\Users\1DAM\Desktop\entornor is\1DAW-Ezure-PC517\09April-Ej1-estructura\obj\Debug\09April-Ej1-estructura.pdb
